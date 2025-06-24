@@ -137,7 +137,7 @@ export default function ResultPage() {
           {renderSubjects()}
 
           <div className="mt-4 text-green-700 font-semibold">
-            <p>📊 Tota credit: {result[20]}</p>
+            <p>🏆 Total credit: {result[20]}</p>
             <p>📊 SGPA: {result[21]}</p>
             <p>🎯 CGPA: {result[22]}</p>
           </div>
